@@ -1,0 +1,6 @@
+requests
+pyotp
+tabulate
+pandas
+matplotlib
+SmartApi
